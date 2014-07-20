@@ -1,0 +1,8 @@
+User-agent: *
+Crawl-delay: 10
+Disallow: /imagens/*
+Disallow: /contato/*
+Disallow: /backup_site_antigo/*
+Disallow: /fancybox/*
+Disallow: /pdf/*
+Disallow: /fonts/*
